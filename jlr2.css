@@ -1,0 +1,75 @@
+.opd{height:auto;
+       width:100%;}
+.bgp{
+	
+	background-color:#666;
+	width:100%;
+	height:auto;
+	
+}
+.text1{
+	font-family:"迷你简粗倩";
+	color:white;
+	font-size:36px;
+	
+	}
+.zk{
+		width:100%;
+		height:auto;
+		
+	}
+	#red{
+		color:red;
+		font-weight:bolder;
+		font-size:1.4em;
+	}
+	.pic1{
+		
+		padding:5%;
+		display:flex;
+		justify-content:center;
+	}
+	.opyu{
+		padding:3%;
+	}
+	.ziti{
+		color:white;
+		font-family:"微软雅黑";
+		font-weight:bolder;
+	}
+	.nnnc{
+	width:10em;
+	height:20em;
+		
+	}
+	.juzhong{
+		display:flex;
+		justify-content: center;
+	}
+	.blue{
+		color:black;
+		font-family:"微软雅黑";
+		font-weight:bolder;
+	}
+	.rppo{
+		float:right;
+		padding:1%;
+	}
+	.ziii{
+		font-size:1.5em;
+		font-weight:bolder;
+		font-family:"微软雅黑";
+		text-decoration:none;
+	}
+	.white{
+		color:white;
+	}
+	.neirong{
+		padding-left:10%;
+		padding-right:10%;
+		padding-top:1%;
+		font-size:1.1em;
+		color:white;
+		font-family:"微软雅黑";
+		
+	}

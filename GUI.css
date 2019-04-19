@@ -1,0 +1,344 @@
+@charset "utf-8";
+.top1 {
+	
+	justify-content: center;
+	display: flex;
+
+	font-size: 17px;
+	font-style: normal;
+	font-weight: bolder;
+	font-family: "迷你简粗倩";
+	color: #FFF;
+	padding-top:10%;
+	padding-bottom:2%;
+	padding-left:10%;
+	padding-right:10%;
+}
+.wenzi{
+	color:white;
+	
+}
+.juli{
+	padding-top:15px;
+	padding-bottom:40px;
+}
+.wangzuo{
+	padding-left:10%;
+}
+.ewm{
+vertical-align:middle;
+padding-bottom:5%;
+padding-top:5%;
+display:flex;
+	justify-content:center;
+}
+.small{
+	display:flex;
+	justify-content:center;
+}
+.dgo{
+	font-size:1.1em;
+	font-family:"微软雅黑";
+	color:white;
+}
+.kuang{
+	background-image: url(bgpic.gif);
+	width: auto;
+	height: auto;
+	color: #D6D6D6;
+	
+}
+.left{
+  width:20%;
+  height:auto;
+  position:fixed;
+  left:0px;
+  background-color:white;
+}
+.text1 {
+	position:relative;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	width: auto;
+	font-weight: bold;
+	left: auto;
+	right: auto;
+	font-style: normal;
+	float: none;
+	word-spacing: 80%;
+	margin: auto;
+	color:white;
+	padding-right: 400px;
+	padding-bottom: 10px;
+	padding-left: 400px;
+	
+}
+.kuai{
+	display:flex;
+	padding-left:15%;
+	padding-right:15%;
+	justify-content: center;
+}
+.video{
+	display:flex;
+	padding-left:5%;
+	padding-right:5%;
+	justify-content: center;
+	padding-top:5%;
+}
+.icon{
+	padding-top:3%;
+	 display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.hbbb{text-align:center;
+  font-size:1.3em;
+  padding-left:5%;
+  padding-right:5%;
+  color:white;
+  font-weight:bolder;
+  font-family:"微软雅黑";
+  text-decoration:none;
+}
+.li{
+	list-style-type:none;
+	width:6em;
+	height:2em;
+	border:1px solid #FFF;
+	line-height:2em;
+	background:black;
+	justify-content:center;
+	
+	
+}
+.wxh{
+	text-decoration:none;
+	color:white;
+	
+}
+.text8{
+	color:white;
+	font-size:1.2em;
+	font-family:"微软雅黑";
+}
+
+.pic1 {
+	padding-right: 10%;
+	padding-top: 20px;
+	padding-left: 10%;
+	padding-bottom: 20px;
+	display: flex; 
+	justify-content: center;
+	
+}
+.fuck{
+	padding:15px;
+}
+.hht {
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color: #FFF;
+	background-color: #000000;
+	width:100%;
+	font-weight: bold;
+	line-height: 140px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	
+	justify-content: center;
+	display: flex;
+}
+.baoma{
+	
+	display:flex;
+	justify-content: center;
+	background-color: #000000;
+	width:100%;
+	height:100%;
+}
+.baoma2{
+	display:flex;
+	justify-content:center;
+	background-color:#000000;
+
+	
+}
+.bbbbc{
+	font-family: "微软雅黑";
+	font-size: 60px;
+	color: #FFF;
+	font-weight: bold;
+	
+	
+}
+.zhong{
+	   width:90rpx;
+	   height:20rpx;
+}
+.zsy{
+	height:auto;
+	width:auto\9;
+	width:100%;
+	
+}
+.jjg {
+	text-align: left;
+	margin-bottom: 20px;
+	padding-top: 0%;
+	padding-right: 50%;
+	padding-bottom: 50%;
+	padding-left: 0%;
+}
+.banner {
+	float: left;
+	list-style-type: none;
+
+}
+.kki {content: "" ;
+	height: 0px ;
+	display: block;
+	clear:both ;
+
+}
+* {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            border: 0;
+        }
+
+        .all {
+            width: 500px;
+            height: 200px;
+            padding: 7px;
+            border: 1px solid #ccc;
+            margin: 100px auto;
+            position: relative;
+        }
+
+        .screen {
+            width: 500px;
+            height: 200px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .screen li {
+            width: 500px;
+            height: 200px;
+            overflow: hidden;
+            float: left;
+        }
+
+        .screen ul {
+	position: absolute;
+	left: 0px;
+	top: -4px;
+	width: 2459px;
+        }
+
+        .all ol {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            line-height: 20px;
+            text-align: center;
+        }
+
+        .all ol li {
+            float: left;
+            width: 20px;
+            height: 20px;
+            background: #fff;
+            border: 1px solid #ccc;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+
+        .all ol li.current {
+            background: yellow;
+        }
+
+        #arr {
+            display: none;
+        }
+
+        #arr span {
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            left: 5px;
+            top: 50%;
+            margin-top: -20px;
+            background: #000;
+            cursor: pointer;
+            line-height: 40px;
+            text-align: center;
+            font-weight: bold;
+            font-family: '黑体';
+            font-size: 30px;
+            color: #fff;
+            opacity: 0.3;
+            border: 1px solid #fff;
+        }
+
+        #arr #right {
+            right: 5px;
+            left: auto;
+        }
+		
+	/*fengexain*/
+	43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+ 
