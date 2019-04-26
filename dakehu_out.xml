@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:04:25 09:22:19" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="114.043614" latitude="32.997375"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="营销服务中心" target="0/0/65" pan="178.242" skinid="333" url="{node2}" id="Point02" tilt="-1.71342"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="10" mode="5" loop="2" field="90" pan="1.11518" tiltsize="10" id="_element_0" level="0.5" tilt="1.82411">
+        <source url="浪子回头.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/dakehu_o_0.jpg" prev5url="images/dakehu_o_preview_5.jpg" prev4url="images/dakehu_o_preview_4.jpg" prev3url="images/dakehu_o_preview_3.jpg" prev2url="images/dakehu_o_preview_2.jpg" prev1url="images/dakehu_o_preview_1.jpg" prev0url="images/dakehu_o_preview_0.jpg" tile5url="images/dakehu_o_5.jpg" tilesize="1344" tile4url="images/dakehu_o_4.jpg" tile3url="images/dakehu_o_3.jpg" tilescale="1.007440476190476" tile2url="images/dakehu_o_2.jpg" tile1url="images/dakehu_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:03:12 18:24:21" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="114.043614" latitude="32.997375"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="大客户洽谈室" target="" pan="30.6852" skinid="22" url="{node1}" id="Point01" tilt="0.880042"/>
+      <hotspot title="前台" target="0/0/65" pan="158.671" skinid="444" url="{node3}" id="Point04" tilt="2.98857"/>
+      <hotspot title="会议室" target="0/0/65" pan="-143.032" skinid="999" url="{node4}" id="Point06" tilt="3.62583"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/VR_o_0.jpg" prev5url="images/VR_o_preview_5.jpg" prev4url="images/VR_o_preview_4.jpg" prev3url="images/VR_o_preview_3.jpg" prev2url="images/VR_o_preview_2.jpg" prev1url="images/VR_o_preview_1.jpg" prev0url="images/VR_o_preview_0.jpg" tile5url="images/VR_o_5.jpg" tilesize="1344" tile4url="images/VR_o_4.jpg" tile3url="images/VR_o_3.jpg" tilescale="1.007440476190476" tile2url="images/VR_o_2.jpg" tile1url="images/VR_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:04:25 09:24:04" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="114.043614" latitude="32.997375"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="营销服务中心" target="0/0/65" pan="74.40770000000001" skinid="555" url="{node2}" id="Point05" tilt="-0.350843"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/公司前台_o_0.jpg" prev5url="images/公司前台_o_preview_5.jpg" prev4url="images/公司前台_o_preview_4.jpg" prev3url="images/公司前台_o_preview_3.jpg" prev2url="images/公司前台_o_preview_2.jpg" prev1url="images/公司前台_o_preview_1.jpg" prev0url="images/公司前台_o_preview_0.jpg" tile5url="images/公司前台_o_5.jpg" tilesize="1344" tile4url="images/公司前台_o_4.jpg" tile3url="images/公司前台_o_3.jpg" tilescale="1.007440476190476" tile2url="images/公司前台_o_2.jpg" tile1url="images/公司前台_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:04:25 09:25:41" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="114.043475" latitude="32.997431"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="营销服务中心" target="0/0/65" pan="-82.68210000000001" skinid="1012" url="{node2}" id="Point11" tilt="0.864862"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/会议室_o_0.jpg" prev5url="images/会议室_o_preview_5.jpg" prev4url="images/会议室_o_preview_4.jpg" prev3url="images/会议室_o_preview_3.jpg" prev2url="images/会议室_o_preview_2.jpg" prev1url="images/会议室_o_preview_1.jpg" prev0url="images/会议室_o_preview_0.jpg" tile5url="images/会议室_o_5.jpg" tilesize="1344" tile4url="images/会议室_o_4.jpg" tile3url="images/会议室_o_3.jpg" tilescale="1.007440476190476" tile2url="images/会议室_o_2.jpg" tile1url="images/会议室_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
