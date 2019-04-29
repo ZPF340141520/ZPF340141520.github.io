@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: ???.ggsk
-// Generated 周一 4月 29 14:58:33 2019
+// Generated 周一 4月 29 17:31:46 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -142,31 +142,16 @@ function pano2vrSkin(player,base) {
 			me.__5.style.opacity='0.5';
 			me.__5.style.visibility=me.__5.ggVisible?'inherit':'hidden';
 		}
-		this.__32=document.createElement('div');
-		this.__32.ggId='\u77e9\u5f62 3';
-		this.__32.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this.__32.ggVisible=true;
-		this.__32.className='ggskin ggskin_rectangle';
-		hs ='position:absolute;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: 109px;';
-		hs+='height: 109px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='background: #ffffff;';
-		hs+='border: 1px solid #000000;';
-		this.__32.setAttribute('style',hs);
 		this.__23=document.createElement('div');
 		this.__23.ggId='\u56fe\u7247 2';
 		this.__23.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this.__23.ggVisible=true;
 		this.__23.className='ggskin ggskin_image';
 		hs ='position:absolute;';
-		hs+='left: 4px;';
-		hs+='top:  4px;';
-		hs+='width: 100px;';
-		hs+='height: 100px;';
+		hs+='left: 5px;';
+		hs+='top:  -1px;';
+		hs+='width: 110px;';
+		hs+='height: 110px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: inherit;';
 		this.__23.setAttribute('style',hs);
@@ -176,8 +161,7 @@ function pano2vrSkin(player,base) {
 		this.__23__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__23__img);
 		this.__23.appendChild(this.__23__img);
-		this.__32.appendChild(this.__23);
-		this.__5.appendChild(this.__32);
+		this.__5.appendChild(this.__23);
 		this.__4.appendChild(this.__5);
 		this.__1=document.createElement('div');
 		this.__1.ggId='\u524d\u53f0';
@@ -212,11 +196,11 @@ function pano2vrSkin(player,base) {
 			me.__1.style.opacity='0.5';
 			me.__1.style.visibility=me.__1.ggVisible?'inherit':'hidden';
 		}
-		this.__31=document.createElement('div');
-		this.__31.ggId='\u77e9\u5f62 3';
-		this.__31.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this.__31.ggVisible=true;
-		this.__31.className='ggskin ggskin_rectangle';
+		this.__30=document.createElement('div');
+		this.__30.ggId='\u77e9\u5f62 3';
+		this.__30.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this.__30.ggVisible=true;
+		this.__30.className='ggskin ggskin_rectangle';
 		hs ='position:absolute;';
 		hs+='left: 0px;';
 		hs+='top:  0px;';
@@ -226,7 +210,7 @@ function pano2vrSkin(player,base) {
 		hs+='visibility: inherit;';
 		hs+='background: #ffffff;';
 		hs+='border: 1px solid #000000;';
-		this.__31.setAttribute('style',hs);
+		this.__30.setAttribute('style',hs);
 		this.__21=document.createElement('div');
 		this.__21.ggId='\u56fe\u7247 2';
 		this.__21.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
@@ -246,8 +230,8 @@ function pano2vrSkin(player,base) {
 		this.__21__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__21__img);
 		this.__21.appendChild(this.__21__img);
-		this.__31.appendChild(this.__21);
-		this.__1.appendChild(this.__31);
+		this.__30.appendChild(this.__21);
+		this.__1.appendChild(this.__30);
 		this.__4.appendChild(this.__1);
 		this.__0=document.createElement('div');
 		this.__0.ggId='\u5927\u5ba2\u6237\u6d3d\u8c08\u5ba4';
@@ -282,31 +266,16 @@ function pano2vrSkin(player,base) {
 			me.__0.style.opacity='0.5';
 			me.__0.style.visibility=me.__0.ggVisible?'inherit':'hidden';
 		}
-		this.__30=document.createElement('div');
-		this.__30.ggId='\u77e9\u5f62 3';
-		this.__30.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this.__30.ggVisible=true;
-		this.__30.className='ggskin ggskin_rectangle';
-		hs ='position:absolute;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: 109px;';
-		hs+='height: 109px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='background: #ffffff;';
-		hs+='border: 1px solid #000000;';
-		this.__30.setAttribute('style',hs);
 		this.__20=document.createElement('div');
 		this.__20.ggId='\u56fe\u7247 2';
 		this.__20.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this.__20.ggVisible=true;
 		this.__20.className='ggskin ggskin_image';
 		hs ='position:absolute;';
-		hs+='left: 4px;';
-		hs+='top:  4px;';
-		hs+='width: 100px;';
-		hs+='height: 100px;';
+		hs+='left: 5px;';
+		hs+='top:  0px;';
+		hs+='width: 110px;';
+		hs+='height: 110px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: inherit;';
 		this.__20.setAttribute('style',hs);
@@ -316,8 +285,7 @@ function pano2vrSkin(player,base) {
 		this.__20__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__20__img);
 		this.__20.appendChild(this.__20__img);
-		this.__30.appendChild(this.__20);
-		this.__0.appendChild(this.__30);
+		this.__0.appendChild(this.__20);
 		this.__4.appendChild(this.__0);
 		this.__=document.createElement('div');
 		this.__.ggId='\u4f1a\u8bae\u5ba4';
@@ -529,7 +497,7 @@ function pano2vrSkin(player,base) {
 			this.__div.className='ggskin ggskin_hotspot';
 			hs ='position:absolute;';
 			hs+='left: 232px;';
-			hs+='top:  80px;';
+			hs+='top:  79px;';
 			hs+='width: 5px;';
 			hs+='height: 5px;';
 			hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -584,20 +552,19 @@ function pano2vrSkin(player,base) {
 			this._text2.ggVisible=true;
 			this._text2.className='ggskin ggskin_text';
 			hs ='position:absolute;';
-			hs+='left: -44px;';
-			hs+='top:  91px;';
-			hs+='width: 82px;';
-			hs+='height: 21px;';
+			hs+='left: -43px;';
+			hs+='top:  92px;';
+			hs+='width: 88px;';
+			hs+='height: 20px;';
 			hs+=cssPrefix + 'transform-origin: 50% 50%;';
 			hs+='visibility: inherit;';
-			hs+='background: #ffffff;';
-			hs+='border: 2px solid #000000;';
-			hs+='border-radius: 12px;';
-			hs+=cssPrefix + 'border-radius: 12px;';
-			hs+='color: #000000;';
+			hs+='border: 0px solid #000000;';
+			hs+='border-radius: 5px;';
+			hs+=cssPrefix + 'border-radius: 5px;';
+			hs+='color: #ffffff;';
 			hs+='text-align: center;';
 			hs+='white-space: nowrap;';
-			hs+='padding: 3px 4px 3px 4px;';
+			hs+='padding: 1px 2px 1px 2px;';
 			hs+='overflow: hidden;';
 			this._text2.setAttribute('style',hs);
 			this._text2.innerHTML="\u524d\u53f0";
