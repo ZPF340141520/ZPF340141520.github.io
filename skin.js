@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: ???.ggsk
-// Generated 周五 4月 26 09:31:44 2019
+// Generated 周一 4月 29 14:48:45 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
