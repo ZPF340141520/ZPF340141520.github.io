@@ -18,6 +18,7 @@
       </sound>
     </media>
     <input tile0url="images/dakehu_o_0.jpg" prev5url="images/dakehu_o_preview_5.jpg" prev4url="images/dakehu_o_preview_4.jpg" prev3url="images/dakehu_o_preview_3.jpg" prev2url="images/dakehu_o_preview_2.jpg" prev1url="images/dakehu_o_preview_1.jpg" prev0url="images/dakehu_o_preview_0.jpg" tile5url="images/dakehu_o_5.jpg" tilesize="1344" tile4url="images/dakehu_o_4.jpg" tile3url="images/dakehu_o_3.jpg" tilescale="1.007440476190476" tile2url="images/dakehu_o_2.jpg" tile1url="images/dakehu_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node2">
@@ -36,6 +37,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/VR_o_0.jpg" prev5url="images/VR_o_preview_5.jpg" prev4url="images/VR_o_preview_4.jpg" prev3url="images/VR_o_preview_3.jpg" prev2url="images/VR_o_preview_2.jpg" prev1url="images/VR_o_preview_1.jpg" prev0url="images/VR_o_preview_0.jpg" tile5url="images/VR_o_5.jpg" tilesize="1344" tile4url="images/VR_o_4.jpg" tile3url="images/VR_o_3.jpg" tilescale="1.007440476190476" tile2url="images/VR_o_2.jpg" tile1url="images/VR_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node3">
@@ -52,6 +54,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/公司前台_o_0.jpg" prev5url="images/公司前台_o_preview_5.jpg" prev4url="images/公司前台_o_preview_4.jpg" prev3url="images/公司前台_o_preview_3.jpg" prev2url="images/公司前台_o_preview_2.jpg" prev1url="images/公司前台_o_preview_1.jpg" prev0url="images/公司前台_o_preview_0.jpg" tile5url="images/公司前台_o_5.jpg" tilesize="1344" tile4url="images/公司前台_o_4.jpg" tile3url="images/公司前台_o_3.jpg" tilescale="1.007440476190476" tile2url="images/公司前台_o_2.jpg" tile1url="images/公司前台_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node4">
@@ -68,6 +71,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/会议室_o_0.jpg" prev5url="images/会议室_o_preview_5.jpg" prev4url="images/会议室_o_preview_4.jpg" prev3url="images/会议室_o_preview_3.jpg" prev2url="images/会议室_o_preview_2.jpg" prev1url="images/会议室_o_preview_1.jpg" prev0url="images/会议室_o_preview_0.jpg" tile5url="images/会议室_o_5.jpg" tilesize="1344" tile4url="images/会议室_o_4.jpg" tile3url="images/会议室_o_3.jpg" tilescale="1.007440476190476" tile2url="images/会议室_o_2.jpg" tile1url="images/会议室_o_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
 </tour>
